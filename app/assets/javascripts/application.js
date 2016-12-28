@@ -18,5 +18,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require 'webpack/client_only'
 //= require_tree .
 Opal.load('components');

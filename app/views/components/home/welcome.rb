@@ -6,7 +6,11 @@ module Components
       param :name, type: String
 
       def render
-        h1 { "Hello and welcome #{params.name}!" }
+        div do
+          ReactPlayer(url:  'https://www.youtube.com/embed/FzCsDVfPQqk',
+            playing: true
+          )
+        end
       end
     end
   end

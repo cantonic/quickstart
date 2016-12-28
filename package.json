@@ -1,0 +1,22 @@
+{
+  "name": "hyperloop-webpack",
+  "version": "1.0.0",
+  "description": "sample webpack and hyper-react app",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-player": "^0.14.0"
+  }
+}
