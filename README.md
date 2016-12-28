@@ -1,6 +1,6 @@
-# A simple Hyperloop Rails (5.0.1) App
+# Rails, HyperReact, NPM and Webpack Quickstart
 
-This tutorial is available on the [Hyperloop site](http://ruby-hyperloop.io/tutorials/hyperreact_with_rails/).
+This tutorial is available on the [Hyperloop site](http://ruby-hyperloop.io/tutorials/hyperreact_with_webpack/).
 
 ## Usage
 
