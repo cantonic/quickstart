@@ -1,12 +1,6 @@
-# A simple Hyperloop Rails App
+# A simple Hyperloop Rails (5.0.1) App
 
 This tutorial is available on the [Hyperloop site](http://ruby-hyperloop.io/tutorials/hyperreact_with_rails/).
-
-Clone this repo:
-
-```
-git clone 
-```
 
 ## Usage
 
